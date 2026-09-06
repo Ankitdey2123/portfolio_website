@@ -1,0 +1,270 @@
+{
+    "personalInfo": {
+        "name": "Ankit Dey",
+        "title": "Full Stack Web Developer",
+        "focusRoles": [
+            "Junior Software Developer",
+            "Backend Developer",
+            "Full Stack Developer"
+        ],
+        "defaultRole": "Software Developer Engineer",
+        "tagline": "Junior Software Developer • Backend Developer",
+        "location": "West Bengal, India",
+        "email": "ankitdeyadri@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/ankit-dey-24ad/",
+        "github": "https://github.com/Ankitdey2123",
+        "handle": "~/ankit.dev",
+        "availability": "Open to Junior Software Developer • Backend Developer Roles · India / Remote",
+        "resumeLink": "/Ankit_Dey_Resume_ATS.pdf"
+    },
+    "sysinfo": {
+        "primaryStack": "Node.js / TypeScript / React / PostgreSQL",
+        "education": "MCA Degree (2024–2026)",
+        "location": "Hyderabad,Telengana",
+        "workModel": "On-site / Remote / Hybrid"
+    },
+    "summary": "MCA graduate with 6 months of hands-on internship experience in Full Stack Web Development. Proficient in Node.js, TypeScript, and React.js. Built 2 projects involving REST APIs, PostgreSQL, MySQL, and React.js. Seeking to leverage skills as a Junior Software Developer / Backend Developer to contribute to a fast-growing product or technology team.",
+    "heroHighlights": [
+        "Node.js",
+        "TypeScript",
+        "React.js",
+        "PostgreSQL",
+        "REST APIs",
+        "CI/CD",
+        "Docker"
+    ],
+    "stats": [
+        {
+            "value": "6+",
+            "label": "Months Experience"
+        },
+        {
+            "value": "2",
+            "label": "Full Stack Projects"
+        },
+        {
+            "value": "95%",
+            "label": "Service Reliabillity"
+        },
+        {
+            "value": "2",
+            "label": "Certification"
+        }
+    ],
+    "terminal": {
+        "commandLine": [
+            {
+                "prompt": "$ node --version",
+                "output": "v20.11.0 · TypeScript 5.4"
+            },
+            {
+                "prompt": "$ npm run build",
+                "output": "✔ React.js production build ready"
+            },
+            {
+                "prompt": "$ docker compose up -d",
+                "output": "✔ api started\n✔ postgres:15 started\n✔ pgadmin started"
+            },
+            {
+                "prompt": "$ prisma migrate deploy",
+                "output": "✔ 6 migrations applied"
+            },
+            {
+                "prompt": "$ git push origin main",
+                "output": "✔ CI pipeline triggered · tests passed"
+            }
+        ]
+    },
+    "about": {
+        "headingLine1": "Full Stack &",
+        "headingHighlight": "Backend",
+        "headingLine2": "Developer",
+        "intro": "Hi, I'm Ankit Dey, a full stack developer who enjoys building reliable APIs and clean, usable interfaces.",
+        "body": "I specialize in Node.js, TypeScript, React.js, and relational databases like PostgreSQL and MySQL. During my internship at Flip Health, I worked on production REST APIs and React components used across a health-tech product.",
+        "closing": "I enjoy solving backend problems, writing type-safe code, and continuously sharpening my data structures and algorithms skills.",
+        "focusAreas": [
+            "REST API Design",
+            "Node.js & TypeScript",
+            "React.js Interfaces",
+            "PostgreSQL & MySQL",
+            "Prisma ORM",
+            "Docker & Deployment"
+        ],
+        "badge": "Open to Work",
+        "role": "Software Developer Intern @ Flip Health India",
+        "photo": ""
+    },
+    "aboutStats": [
+        {
+            "value": "6 month",
+            "label": "Internship Experience"
+        },
+        {
+            "value": "2",
+            "label": "Projects Shipped"
+        },
+        {
+            "value": "10+",
+            "label": "Tools & Tech"
+        },
+        {
+            "value": "200+",
+            "label": "Users Served"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Languages",
+            "items": [
+                "Java",
+                "JavaScript",
+                "TypeScript"
+            ]
+        },
+        {
+            "category": "Frontend",
+            "items": [
+                "React.js",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "category": "Backend",
+            "items": [
+                "Node.js",
+                "REST APIs"
+            ]
+        },
+        {
+            "category": "Databases",
+            "items": [
+                "PostgreSQL",
+                "MySQL",
+                "SQL",
+                "Prisma ORM"
+            ]
+        },
+        {
+            "category": "Core Concepts",
+            "items": [
+                "Object-Oriented Programming (OOP)",
+                "Data Structures & Algorithms"
+            ]
+        },
+        {
+            "category": "Tools & DevOps",
+            "items": [
+                "Git",
+                "GitHub",
+                "Docker",
+                "Postman",
+                "CI/CD",
+                "VS Code"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "role": "Software Developer Intern",
+            "company": "Flip Health India Pvt. Ltd.",
+            "startDate": "Jan 2026",
+            "endDate": "Jun 2026",
+            "techStack": [
+                "Node.js",
+                "TypeScript",
+                "React.js",
+                "Git & GitHub",
+                "Docker",
+                "Postman"
+            ],
+            "responsibilities": [
+                "Developed and maintained REST APIs using Node.js and TypeScript, supporting core backend functionality across health-tech product modules.",
+                "Built interactive frontend components using React.js, improving UI consistency and reducing user-reported interface bugs.",
+                "Collaborated within an Agile team using Git/GitHub for version control and code reviews, delivering bi-weekly releases.",
+                "Containerized application services using Docker, cutting environment setup time and ensuring consistent deployments.",
+                "Used Postman to test and validate API endpoints, catching critical bugs pre-release and reducing production defects."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Online Examination System",
+            "description": "A full-stack web-based examination platform serving 200+ students, with role-based access control and a real-time exam workflow.",
+            "techStack": [
+                "TypeScript",
+                "React.js",
+                "Node.js",
+                "PostgreSQL",
+                "Prisma ORM"
+            ],
+            "highlights": [
+                "Architected a full-stack exam platform serving 200+ students using TypeScript and React.js.",
+                "Designed RESTful APIs with PostgreSQL and Prisma ORM for exam scheduling, user records, and results.",
+                "Implemented Role-Based Access Control (RBAC) for Admin and Student roles, eliminating unauthorized data access.",
+                "Built a responsive UI with real-time exam states, a countdown timer, and auto-submission."
+            ],
+            "link": "",
+            "repo": ""
+        },
+        {
+            "name": "Movie Booking App",
+            "description": "A CRUD-based movie ticket booking system supporting concurrent bookings with zero data conflicts.",
+            "techStack": [
+                "TypeScript",
+                "Node.js",
+                "React.js",
+                "MySQL"
+            ],
+            "highlights": [
+                "Developed a CRUD-based booking system (browse, book, update, cancel) supporting concurrent users.",
+                "Integrated MySQL with relational tables; TypeScript ensured type-safe interactions and fewer runtime errors.",
+                "Built a React.js frontend with interactive screens including a seat selection UI."
+            ],
+            "link": "",
+            "repo": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications (MCA)",
+            "institution": "Vidyasagar University",
+            "location": "Midnapore, India",
+            "startDate": "Sep 2024",
+            "endDate": "Jun 2026",
+            "grade": "CGPA: 8.7/10",
+            "status": "Pursuing"
+        },
+        {
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "institution": "Burdwan Raj College",
+            "location": "Burdwan, India",
+            "startDate": "Aug 2021",
+            "endDate": "Jun 2024",
+            "grade": "75.35%",
+            "status": "Completed"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Internship Completion Certificate",
+            "issuer": "Flip Health India Pvt Ltd."
+        },
+        {
+            "title": "Introduction to Artificial Intelligence",
+            "issuer": "IBM Springboard"
+        }
+    ],
+    "contact": {
+        "heading": "Let's Connect",
+        "body": "I'm currently exploring Junior Software Developer and Backend Developer roles, and always happy to talk about Node.js, React, and backend architecture.",
+        "availabilityLines": [
+            "Open to full-time opportunities",
+            "Available for freelance & collaborations",
+            "Usually replies within 24 hours"
+        ]
+    },
+    "footer": {
+        "note": "Built with React, TypeScript & Tailwind CSS."
+    }
+}
